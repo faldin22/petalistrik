@@ -1,0 +1,1 @@
+var json_PLTMH_27 = {"type":"FeatureCollection","name":"PLTMH_27","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ID":"001","NAMA":"PLTMH WINNING","KAPASITAS":"3.6 MW"},"geometry":{"type":"Point","coordinates":[122.901614641433014,-5.402180717133888]}}]}
